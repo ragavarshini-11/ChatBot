@@ -125,6 +125,4 @@ rag-chatbot/
 - **Streaming responses** — SSE lets the frontend render tokens as they arrive, improving perceived latency.
 - **Stable chunk IDs** — re-uploading the same file updates existing vectors instead of duplicating them.
 
-## License
 
-MIT
